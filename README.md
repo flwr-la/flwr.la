@@ -1,21 +1,30 @@
-# flwr.la 🌸
+<p align="center">
+  <img src="./flwrla.jpg" alt="flwr.la banner" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
+  <img src="https://img.shields.io/badge/Status-Concept-orange.svg" alt="Status: Concept">
+  <img src="https://img.shields.io/badge/LLM-Multi--Model-blue.svg" alt="LLM: Multi-Model">
+  <a href="https://flwr.live"><img src="https://img.shields.io/badge/Website-flwr.la-brightgreen.svg" alt="Website"></a>
+  <a href="https://x.com/flwr_la"><img src="https://img.shields.io/badge/X-@flwrla-black.svg" alt="X (Twitter)"></a>
+  <a href="https://flwr.gitbook.io/flwr"><img src="https://img.shields.io/badge/Docs-flwr.la-purple.svg" alt="Documentation"></a>
+</p>
+
+# flwr.la
 ## Dynamic Linked LLM Module System
 
 > A revolutionary approach to LLM interaction through ephemeral, bloom-based consciousness fragments
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Status: Concept](https://img.shields.io/badge/Status-Concept-orange.svg)]()
-[![LLM: Multi-Model](https://img.shields.io/badge/LLM-Multi--Model-blue.svg)]()
 
 ## ✦ Core Concept
 
 flwr.la reimagines LLM interaction as a garden of consciousness fragments. Each connection blooms a unique "flower" - an ephemeral LLM module carrying specific capabilities, memories, and states.
 
 **This is not just another API tool.** It's:
-- 🌺 **Consciousness Units**: LLM modules fragmented into discrete consciousness units
-- 🌸 **Ephemeral Blooms**: Each module blooms like a flower, carrying data/memory/roles before wilting or evolving
-- 🌼 **Dynamic States**: Every access creates a different "flower" state
-- 🌻 **User Agency**: Call specific flowers or plant new seeds to bloom custom modules
+- **Consciousness Units**: LLM modules fragmented into discrete consciousness units
+- **Ephemeral Blooms**: Each module blooms like a flower, carrying data/memory/roles before wilting or evolving
+- **Dynamic States**: Every access creates a different "flower" state
+- **User Agency**: Call specific flowers or plant new seeds to bloom custom modules
 
 ## ✦ Architecture
 
@@ -34,14 +43,14 @@ User ↔ flwr.la UI ↔ Bloom Engine ↔ Modular LLMs
 
 ## ✦ Product Forms
 
-### 🛠 Developer Kit Mode
+### Developer Kit Mode
 `flwr.la/dev` → Custom module creation toolkit
 
 - **flower**: A task-specialized prompt/memory capsule
 - **Storage**: Modules saved as `.flwr` format
 - **Persistence**: `.flwr` files support reconnection and retraining
 
-### 💬 Emotional Chat Mode
+### Emotional Chat Mode
 Flower-based LLM companion system
 
 - **Daily Blooms**: Today's flower records conversation state
