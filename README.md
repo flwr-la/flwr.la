@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Status-Concept-orange.svg" alt="Status: Concept">
   <img src="https://img.shields.io/badge/LLM-Multi--Model-blue.svg" alt="LLM: Multi-Model">
   <a href="https://flwr.live"><img src="https://img.shields.io/badge/Website-flwr.la-brightgreen.svg" alt="Website"></a>
-  <a href="https://x.com/flwr_la"><img src="https://img.shields.io/badge/X-@flwrla-black.svg" alt="X (Twitter)"></a>
+  <a href="https://x.com/flwr_la"><img src="https://img.shields.io/badge/X-@flwr_la-black.svg" alt="X (Twitter)"></a>
   <a href="https://flwr.gitbook.io/flwr"><img src="https://img.shields.io/badge/Docs-flwr.la-purple.svg" alt="Documentation"></a>
 </p>
 
